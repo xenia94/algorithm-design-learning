@@ -12,6 +12,7 @@ public class Input {
         System.out.println("Upisite drugi sabirak");
         int drugiSabirak = ulaz.nextInt();
 
+        // nesto promenim
         System.out.printf("%d + %d = %d", prviSabirak, drugiSabirak, prviSabirak + drugiSabirak);
 
     }
